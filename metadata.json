@@ -1,0 +1,8 @@
+{
+  "name": "PathForge - Gen-Z Career Forge",
+  "description": "High-leverage tech career calibrator, interactive roadmap forge, daily coding missions, and AI homie mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
